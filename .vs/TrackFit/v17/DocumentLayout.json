@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|c:\\users\\i.m.a.n.i\\onedrive\\desktop\\programs\\c#\\trackfit\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\usercontrols\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:usercontrols\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\usercontrols\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:usercontrols\\uc_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\workouttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:workouttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\usercontrols\\uc_activities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:usercontrols\\uc_activities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\usercontrols\\uc_activities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:usercontrols\\uc_activities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\workoutactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:workoutactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\workouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:workouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256A4DF9-EAFC-4A0F-9FA6-0EEA99B34CDA}|TrackFit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:19:09.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Activities.cs",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserControls\\UC_Activities.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_Activities.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserControls\\UC_Activities.cs",
+              "RelativeToolTip": "UserControls\\UC_Activities.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAAAAQBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:31:28.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Activities.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserControls\\UC_Activities.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_Activities.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserControls\\UC_Activities.cs [Design]",
+              "RelativeToolTip": "UserControls\\UC_Activities.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:31:26.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Home.cs",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserControls\\UC_Home.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_Home.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserControls\\UC_Home.cs",
+              "RelativeToolTip": "UserControls\\UC_Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:13:53.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserControls\\UC_Home.cs",
+              "RelativeDocumentMoniker": "UserControls\\UC_Home.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserControls\\UC_Home.cs [Design]",
+              "RelativeToolTip": "UserControls\\UC_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:13:49.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Workouts.cs",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\Workouts.cs",
+              "RelativeDocumentMoniker": "Workouts.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\Workouts.cs",
+              "RelativeToolTip": "Workouts.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:38:12.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkoutTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\WorkoutTemplate.cs",
+              "RelativeDocumentMoniker": "WorkoutTemplate.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\WorkoutTemplate.cs",
+              "RelativeToolTip": "WorkoutTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:38:10.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkoutActivity.cs",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\WorkoutActivity.cs",
+              "RelativeDocumentMoniker": "WorkoutActivity.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\WorkoutActivity.cs",
+              "RelativeToolTip": "WorkoutActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T04:07:41.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserProfile.cs",
+              "RelativeDocumentMoniker": "UserProfile.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\UserProfile.cs",
+              "RelativeToolTip": "UserProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:35:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:35:11.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\Goal.cs",
+              "RelativeDocumentMoniker": "Goal.cs",
+              "ToolTip": "C:\\Users\\I.M.A.N.I\\OneDrive\\Desktop\\Programs\\C#\\TrackFit\\Goal.cs",
+              "RelativeToolTip": "Goal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:34:19.222Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
